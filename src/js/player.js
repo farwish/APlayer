@@ -500,8 +500,7 @@ class APlayer {
     }
 
     static get version () {
-        /* global APLAYER_VERSION */
-        return APLAYER_VERSION;
+        // return APLAYER_VERSION;
     }
 }
 
